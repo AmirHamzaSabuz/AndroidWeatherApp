@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidWeatherApp</string>
+    <string name="pressure">Pressure</string>
+    <string name="cloud">Cloud</string>
+    <string name="wind">Wind</string>
+    <string name="_30_deg_c">30 Deg C</string>
+    <string name="dhaka_bd">Dhaka, BD</string>
+    <string name="humidity">Humidity</string>
+    <string name="sun_rise">Sun Rise</string>
+    <string name="sun_set">Sun Set</string>
+    <string name="last_updated">Last Updated</string>
+</resources>
